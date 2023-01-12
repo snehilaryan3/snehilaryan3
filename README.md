@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @snehilaryan3
 - 👀 I’m interested in ... Data Engineering and Cloud Computing 
-- 🌱 I’m currently learning ... Applied Machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 🌱 I’m currently a MS Information Systems student at Northeastern University
+- 📫 How to reach me aryan.s@northeastern.edu 
 
 <!---
 snehilaryan3/snehilaryan3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
